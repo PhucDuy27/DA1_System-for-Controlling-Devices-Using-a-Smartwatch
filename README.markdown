@@ -38,8 +38,6 @@ Tín hiệu hồng ngoại từ điện thoại được gửi đến hệ thố
 
 ## Hướng dẫn sử dụng
 
-## Hướng dẫn sử dụng
-
 Thực hiện các thao tác sau để sử dụng sản phẩm:
 
 - **Bước 1**: Cấp nguồn đúng theo hướng dẫn trong phần thiết lập các hệ thống.
