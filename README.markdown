@@ -43,7 +43,8 @@ Thực hiện các thao tác sau để sử dụng sản phẩm:
 - **Bước 1**: Cấp nguồn đúng theo hướng dẫn trong phần thiết lập các hệ thống.
 - **Bước 2**: Kết nối hệ thống điều khiển đèn và Gateway với Wi-Fi tại hộ gia đình bạn.
 - **Bước 3**: Kết nối Bluetooth giữa Gateway và đồng hồ.
-- **Bước 4**: Sau khi thiết lập Wi-Fi và Bluetooth thành công, đồng hồ sẽ hiển thị thông tin và có thể phát tín hiệu hồng ngoại. Chúng ta có thể sử dụng tín hiệu hồng ngoại từ remote hoặc điện thoại.
+- **Bước 4**: Sau khi thiết lập Wi-Fi và Bluetooth thành công, đồng hồ sẽ hiển thị thông tin và có thể phát tín hiệu hồng ngoại. Chúng ta có thể sử dụng tín hiệu hồng ngoại từ đồng hồ hoặc điện thoại.
+- **Bước 5**: Quan sát trên đồng hồ nếu đã có trạng thái hồng ngoại thì có thể phát ra âm thanh để điều khiển đèn.
 
 ## Cấu trúc thư mục
 
