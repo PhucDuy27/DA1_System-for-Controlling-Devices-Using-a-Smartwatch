@@ -58,7 +58,7 @@ DA1_System for Controlling Devices Using a Smartwatch/
 ├── Handware_Design/        # Thiết kế phần cứng
 │   ├── Equipment_control_and_gateway_system/  # Sơ đồ mạch hệ thống điều khiển thiết bị và Gateway
 │   ├── Gaber_File/                   # File Gerber
-│   └── Swatch_watch_system/          # Sơ đồ mạch đồng hồ thông minh
+│   └── Smart_watch_system/          # Sơ đồ mạch đồng hồ thông minh
 └── Presentation/          # Slide trình bày
 ```
 
